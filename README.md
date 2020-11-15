@@ -1,1 +1,1 @@
-# riven-bot
+# RivenBot
