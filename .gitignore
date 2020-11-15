@@ -23,4 +23,5 @@ typings/index.js
 webpack/
 
 # other files
+package.json
 package-lock.json
