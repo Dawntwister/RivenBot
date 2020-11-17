@@ -1,5 +1,6 @@
 # Packages
 node_modules/
+node-js-getting-started
 yarn.lock
 
 # Log files
